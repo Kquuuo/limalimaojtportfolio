@@ -11,40 +11,35 @@ export default function Portfolio() {
       description: "Built a full-stack e-commerce application with Python, HTML/CSS, and SQLite. Implemented user authentication and home page where user can post job application or find job opportunities.",
       tech: ["Python", "HTML/CSS", "SQLite"],
       image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=500&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/AllenPetaluna/Professional-Networking-System"
     },
     {
       title: "Taskify",
       description: "Developed a task management tool with real-time updates using WebSockets. Features include drag-and-drop, team collaboration, and notifications.",
       tech: ["JavaScript","React", "Vite", "Java", "HTML/CSS", "MySQL"],
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=500&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/felraine/Taskify-Project"
     },
     {
       title: "FilipinoExplorer",
       description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
       tech: ["React", "Vite","Chart.js", "API Integration"],
       image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&h=500&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/AbarquezMyk/Capstone_FilipinoExplorers"
     },
     {
       title: "E-Vents",
       description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
       tech: ["React", "Chart.js", "API Integration"],
       image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&h=500&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/villamorbudz/E-vents"
     },
     {
-      title: "RedMatrix Notes-App",
+      title: "Quizzard",
       description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
       tech: ["React", "Chart.js", "API Integration"],
       image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&h=500&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "#"
     }
   ];
 
@@ -240,10 +235,6 @@ export default function Portfolio() {
                     <a href={project.github} className="flex items-center space-x-1 text-purple-400 hover:text-purple-300">
                       <Github size={18} />
                       <span>Code</span>
-                    </a>
-                    <a href={project.demo} className="flex items-center space-x-1 text-purple-400 hover:text-purple-300">
-                      <ExternalLink size={18} />
-                      <span>Demo</span>
                     </a>
                   </div>
                 </div>
