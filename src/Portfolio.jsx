@@ -22,22 +22,36 @@ export default function Portfolio() {
     },
     {
       title: "FilipinoExplorer",
-      description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
-      tech: ["React", "Vite","Chart.js", "API Integration"],
+      description: "An interactive, game-based e-learning platform designed to improve engagement, enhance language skills, and provide a structured approach to learning Filipino",
+      tech: ["React", "Vite","Tailwind.css", "API Integration", "Java", "PostgreSQL"],
       image: "/src/images/filipino_explorers.png",
       github: "https://github.com/AbarquezMyk/Capstone_FilipinoExplorers"
     },
     {
       title: "E-Vents",
-      description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
-      tech: ["React", "Chart.js", "API Integration"],
+      description: "A web-based Ticket Management System designed to streamline the organization and tracking of event participation. The platform allows event organizers to efficiently manage tickets, monitor attendance, and coordinate activities, all from a centralized dashboard. Allows user to buy tickets.",
+      tech: ["React", "Vite","Tailwind CSS", "API Integration", "Java", "MySQL"],
       image: "/src/images/e-vents.jpg",
       github: "https://github.com/villamorbudz/E-vents"
     },
     {
       title: "Quizzard",
       description: "Created an interactive weather dashboard that displays current conditions and forecasts using OpenWeather API with data visualization.",
-      tech: ["React", "Chart.js", "API Integration"],
+      tech: ["Java", "IntelliJ", "HTML/CSS", "JavaScript"],
+      image: "https://via.placeholder.com/800x500/808080/808080",
+      github: "#"
+    },
+    {
+      title: "Red-Matrix Notes-App",
+      description: "A blockchain-based notes app where users can securely create, update, and delete notes, with every action recorded on the Cardano blockchain for transparency and immutability.",
+      tech: ["Java", "React", "Vite", "Tailwind CSS", "Blockfrost API"],
+      image: "https://via.placeholder.com/800x500/808080/808080",
+      github: "#"
+    },
+    {
+      title: "Notes App - Mobile",
+      description: "A mobile notes app that allows users to securely create, update, and delete notes with easy organization and optional cloud sync.",
+      tech: ["Kotlin", "Firebase", "Android Studio"],
       image: "https://via.placeholder.com/800x500/808080/808080",
       github: "#"
     }
