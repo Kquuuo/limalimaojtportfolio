@@ -10,28 +10,28 @@ export default function Portfolio() {
       title: "PiJob",
       description: "Built a full-stack e-commerce application with Python, HTML/CSS, and SQLite. Implemented user authentication and home page where user can post job application or find job opportunities.",
       tech: ["Python", "HTML/CSS", "SQLite"],
-      image: "/src/images/pijob.png",
+      image: "/images/pijob.png",
       github: "https://github.com/AllenPetaluna/Professional-Networking-System"
     },
     {
       title: "Taskify",
       description: "Developed a task management tool with real-time updates using WebSockets. Features include drag-and-drop, team collaboration, and notifications.",
       tech: ["JavaScript","React", "Vite", "Java", "HTML/CSS", "MySQL"],
-      image: "/src/images/taskify.png",
+      image: "/images/taskify.png",
       github: "https://github.com/felraine/Taskify-Project"
     },
     {
       title: "FilipinoExplorer",
       description: "An interactive, game-based e-learning platform designed to improve engagement, enhance language skills, and provide a structured approach to learning Filipino",
       tech: ["React", "Vite","Tailwind.css", "API Integration", "Java", "PostgreSQL"],
-      image: "/src/images/filipino_explorers.png",
+      image: "/images/filipino_explorers.png",
       github: "https://github.com/AbarquezMyk/Capstone_FilipinoExplorers"
     },
     {
       title: "E-Vents",
       description: "A web-based Ticket Management System designed to streamline the organization and tracking of event participation. The platform allows event organizers to efficiently manage tickets, monitor attendance, and coordinate activities, all from a centralized dashboard. Allows user to buy tickets.",
       tech: ["React", "Vite","Tailwind CSS", "API Integration", "Java", "MySQL"],
-      image: "/src/images/e-vents.jpg",
+      image: "/images/e-vents.jpg",
       github: "https://github.com/villamorbudz/E-vents"
     },
     {
