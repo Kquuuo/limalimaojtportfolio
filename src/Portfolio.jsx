@@ -141,7 +141,7 @@ export default function Portfolio() {
             Renato Limalima Jr.
           </h1>
           <p className="text-xl md:text-2xl text-purple-200 mb-8">
-            Aspiring Full-Stack Developer | IT Student
+            Aspiring Developer | IT Student
           </p>
           <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
             Passionate about creating innovative web applications and solving complex problems through code. 
