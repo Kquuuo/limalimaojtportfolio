@@ -58,6 +58,7 @@ export default function Portfolio() {
   ];
 
   const skills = [
+    { category: "Programming Languages", items: ["Java", "Python", "JavaScript", "Kotlin", "TypeScript", "C", "PHP"] },
     { category: "Frontend", items: ["React", "JavaScript", "HTML/CSS", "Tailwind CSS", "TypeScript"] },
     { category: "Backend", items: ["Node.js", "Express", "MongoDB", "MySQL", "PostgreSQL", "REST APIs"] },
     { category: "Tools", items: ["Git", "VS Code", "Figma", "Postman", "Swagger", "Netlify", "Vercel"] },
