@@ -42,11 +42,18 @@ export default function Portfolio() {
       github: "#"
     },
     {
+      title: "WeatherLens",
+      description: "This application is a weather app that allows users to search for a city. It displays the current weather conditions for the selected location.",
+      tech: ["HTML/CSS", "TypeScript"],
+      image: "/images/weather_lens.png",
+      github: "https://github.com/Kquuuo/WeatherLens"
+    },
+    {
       title: "Red-Matrix Notes-App",
       description: "A blockchain-based notes app where users can securely create, update, and delete notes, with every action recorded on the Cardano blockchain for transparency and immutability.",
       tech: ["Java", "React", "Vite", "Tailwind CSS", "Blockfrost API"],
       image: "https://via.placeholder.com/800x500/808080/808080",
-      github: "#"
+      github: "https://github.com/pawekz/RedMatrix-App"
     },
     {
       title: "Notes App - Mobile",
