@@ -61,6 +61,13 @@ export default function Portfolio() {
       tech: ["Kotlin", "Firebase", "Android Studio"],
       image: "https://via.placeholder.com/800x500/808080/808080",
       github: "#"
+    },
+    {
+      title: "ExpenSave",
+      description: "An expense tracking application that allows users to monitor and categorize their spending habits.",
+      tech: ["HTML/CSS", "TypeScript"],
+      image: "/images/expensave.png",
+      github: "https://github.com/Kquuuo/ExpenSave"
     }
   ];
 
