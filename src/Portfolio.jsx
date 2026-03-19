@@ -16,21 +16,21 @@ export default function Portfolio() {
     {
       title: "Taskify",
       description: "Developed a task management tool with real-time updates using WebSockets. Features include drag-and-drop, team collaboration, and notifications.",
-      tech: ["JavaScript","React", "Vite", "Java", "HTML/CSS", "MySQL"],
+      tech: ["JavaScript","React", "Vite", "Spring Boot", "HTML/CSS", "MySQL"],
       image: "/images/taskify.png",
       github: "https://github.com/felraine/Taskify-Project"
     },
     {
-      title: "FilipinoExplorer",
+      title: "FilipinoExplorer (Thesis Project)",
       description: "An interactive, game-based e-learning platform designed to improve engagement, enhance language skills, and provide a structured approach to learning Filipino",
-      tech: ["React", "Vite","Tailwind.css", "API Integration", "Java", "PostgreSQL"],
+      tech: ["React", "Vite","Tailwind.css", "API Integration", "Spring Boot", "PostgreSQL"],
       image: "/images/filipino_explorers.png",
       github: "https://github.com/AbarquezMyk/Capstone_FilipinoExplorers"
     },
     {
       title: "E-Vents",
       description: "A web-based Ticket Management System designed to streamline the organization and tracking of event participation. The platform allows event organizers to efficiently manage tickets, monitor attendance, and coordinate activities, all from a centralized dashboard. Allows user to buy tickets.",
-      tech: ["React", "Vite","Tailwind CSS", "API Integration", "Java", "MySQL"],
+      tech: ["React", "Vite","Tailwind CSS", "API Integration", "Spring Boot", "MySQL"],
       image: "/images/e-vents.jpg",
       github: "https://github.com/villamorbudz/E-vents"
     },
@@ -44,7 +44,7 @@ export default function Portfolio() {
     {
       title: "WeatherLens",
       description: "This application is a weather app that allows users to search for a city. It displays the current weather conditions for the selected location.",
-      tech: ["HTML/CSS", "TypeScript"],
+      tech: ["HTML/CSS", "TypeScript", "API Integration"],
       image: "/images/weather_lens.png",
       github: "https://github.com/Kquuuo/WeatherLens"
     },
